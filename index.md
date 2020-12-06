@@ -17,7 +17,7 @@ This page is about our team members information!
 
 <br />
 
-박세환(Team Leader)
+<b>박세환</b> (Team Leader)
 
 <br />
 소프트웨어학과 17학번
@@ -36,7 +36,7 @@ email: whan9809@skku.edu
 <br />
 
 
-김주현 code navigator on Project korman
+<b>김주현</b> code navigator on Project kroman
 
 <br />
 소프트웨어학과 19학번
@@ -51,7 +51,7 @@ email: juhy0987@naver.com
 <br />
 <br />
 
-양동훈 code navigator on Project soynlp
+<b>양동훈</b> code navigator on Project soynlp
 
 <br />
 스포츠과학과/소프트웨어학과 17학번
@@ -69,7 +69,7 @@ email : ydh4481@gmail.com
 <br />
 
 
-최준영 code navigator on Project korman
+<b>최준영</b> code navigator on Project kroman
 
 <br />
 
@@ -89,7 +89,7 @@ Email joeplay0801@naver.com
 <br />
 
 
-김상엽 code navigator on Project soynlp
+<b>김상엽</b> code navigator on Project soynlp
 
 <br />
 소프트웨어학과 19학번
@@ -106,7 +106,7 @@ Email tkdduq629@gmail.com
 <br />
 <br />
 
-서정환 Page manager
+<b>서정환</b> Page manager
 
 <br />
 
