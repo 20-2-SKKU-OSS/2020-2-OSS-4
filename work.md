@@ -10,7 +10,7 @@ items:
       alt: sand
 
 ---
-<https://media.vlpt.us/images/seunghoking/post/315f49f2-dc68-417a-8fe9-7b59790b417a/NLP.jpeg>
+!<https://media.vlpt.us/images/seunghoking/post/315f49f2-dc68-417a-8fe9-7b59790b417a/NLP.jpeg>
 Introducing Project 'soynlp' and 'kroman'
 <br />
 Our team has common interests on NLP(Natural Language Processing)
