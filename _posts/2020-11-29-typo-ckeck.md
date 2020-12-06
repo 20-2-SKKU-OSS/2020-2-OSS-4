@@ -7,7 +7,7 @@ og_image: /assets/img/typo check.jpg
 ---
 <br />
 제목: soynlp tutorials 오타 수정 및 실행 결과 최신화
-![typo check](./assets/img/typo check.jpg)
+<img src="{{ "/assets/img/typo check.jpg" | absolute_url }}" alt="typo check" class="post-pic"/>
 <br />
 <br />
 
