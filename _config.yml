@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Project1
-    - name: Project2
+    - name: Work
+    - name: Blog
 
 footer:
   show_powered_by: true
