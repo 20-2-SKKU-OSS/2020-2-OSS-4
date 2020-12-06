@@ -8,7 +8,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 <br />
 제목: soynlp 한자 포함 전처리
 <br />
-![text with hanja](./assets/img/text with hanja.jpg)
+<img src="{{ "/assets/img/text with hanja.jpg" | absolute_url }}" alt="text with hanja" class="post-pic"/>
 <br />
 <br />
 
