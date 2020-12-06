@@ -3,10 +3,11 @@ layout: post
 title:  "text with hanja"
 date:   2020-12-04 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/text with hanja.jpg
+
 ---
 <br />
 제목: soynlp 한자 포함 전처리
+<br />
 ![text with hanja](./assets/img/text with hanja.jpg)
 <br />
 <br />
