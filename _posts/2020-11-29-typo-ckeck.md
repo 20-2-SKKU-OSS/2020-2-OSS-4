@@ -3,7 +3,7 @@ layout: post
 title:  "typo_check"
 date:   2020-11-29 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+og_image: /assets/img/typo check.jpg
 ---
 <br />
 제목: soynlp tutorials 오타 수정 및 실행 결과 최신화
