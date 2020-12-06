@@ -7,8 +7,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: 
-    soynlp - 한국어 형태소 분석 기능을 제공하는 모듈입니다. 학습데이터 없이도 단어를 찾고 품사를 구분하는 점이 특징이며 단어 추출 / 토크나이저 / 품사판별 / 전처리 기능을 제공합니다. 프로젝트 내부에 soynlp를 처음 접하는 사용자를 위한 tutorials directory가 존재합니다. .ipynb파일로 이루어진 여러 튜토리얼 파일에는 soynlp 모듈에 어떤 함수가 있고 어떻게 쓸 수 있는지 자세히 기술되어 있습니다. 이 부분에서 저희는 다수의 오타 및 오류를 발견하였고, 이를 수정함으로써 튜토리얼 파일의 정확성과 가시성을 높였습니다. --->2020-11-29-typo-check : <https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/11/29/typo-ckeck> soynlp.normalizer 모듈은 분석하고자 하는 글의 전처리 - 특수기호 배제 또는 반복된 자,모음 제거 등의 기능을 제공합니다. 저희는 한자가 포함된 글에 대해서 normalize 과정을 진행하고 싶었으나, 기존 함수로는 한계가 있어 한글, 한자, 영어, 숫자만을 남기는 새로운 기능을 추가하고자 했습니다. --->2020-12-04-text-with-hanja : <https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/12/04/text-with-hanja>
+    description: soynlp - 한국어 형태소 분석 기능을 제공하는 모듈입니다. 학습데이터 없이도 단어를 찾고 품사를 구분하는 점이 특징이며 단어 추출 / 토크나이저 / 품사판별 / 전처리 기능을 제공합니다. 프로젝트 내부에 soynlp를 처음 접하는 사용자를 위한 tutorials directory가 존재합니다. .ipynb파일로 이루어진 여러 튜토리얼 파일에는 soynlp 모듈에 어떤 함수가 있고 어떻게 쓸 수 있는지 자세히 기술되어 있습니다. 이 부분에서 저희는 다수의 오타 및 오류를 발견하였고, 이를 수정함으로써 튜토리얼 파일의 정확성과 가시성을 높였습니다. --->2020-11-29-typo-check : <https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/11/29/typo-ckeck> soynlp.normalizer 모듈은 분석하고자 하는 글의 전처리 - 특수기호 배제 또는 반복된 자,모음 제거 등의 기능을 제공합니다. 저희는 한자가 포함된 글에 대해서 normalize 과정을 진행하고 싶었으나, 기존 함수로는 한계가 있어 한글, 한자, 영어, 숫자만을 남기는 새로운 기능을 추가하고자 했습니다. --->2020-12-04-text-with-hanja : <https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/12/04/text-with-hanja>
   - title: 'kroman'
     image:
       src: /assets/img/work/sand.png
