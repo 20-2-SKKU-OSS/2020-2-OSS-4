@@ -42,19 +42,3 @@ soynlp.normalizer 모듈은 분석하고자 하는 글의 전처리 - 특수기�
 <br />
 ---
 
-![NLP](./assets/img/NLP.jpeg)
-Introducing Project 'soynlp' and 'kroman'
-<br />
-Our team has common interests on NLP(Natural Language Processing)
-<br />
-Especially, recognizing and processing Hangul is our recent issue.
-<br />
-So, we decide to contribute in Korean analysis module.
-<br />
-The original Project is as follows:
-<br />
-lovit/soynlp : <https://github.com/lovit/soynlp>
-<br />
-zhangkaiyulw/kroman : <https://github.com/zhangkaiyulw/kroman>
-
-
