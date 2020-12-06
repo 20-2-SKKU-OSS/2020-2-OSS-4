@@ -7,7 +7,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 ---
 <br />
 제목: soynlp tutorials 오타 수정 및 실행 결과 최신화
-![](./assets/img/typo check.jpg)
+![typo check](./assets/img/typo check.jpg)
 <br />
 <br />
 
