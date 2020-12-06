@@ -6,7 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This page is for Opensource Software Lab team project, on Sungkyunkwan Univ. Our team consists of 박세환, 김상엽, 김주현, 서정환, 양동훈, 최준영.
+  Welcome! This page is for Opensource Software Lab team project, on Sungkyunkwan Univ. 
+<p>  
+  Our team consists of 박세환, 김상엽, 김주현, 서정환, 양동훈, 최준영.
 </p>
 
 <p>
