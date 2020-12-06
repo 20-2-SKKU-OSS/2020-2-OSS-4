@@ -43,10 +43,8 @@ email: whan9809@skku.edu
 <br />
 language : c/c++ python
 <br />
-Interest : 데이터처리
-<br />
 github id: juhy0987
-데이터처리
+<br />
 email: juhy0987@naver.com
 
 <br />
