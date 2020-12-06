@@ -7,10 +7,10 @@ profile_picture:
 
 <p>
   Welcome! This page is for Opensource Software Lab team project, on Sungkyunkwan Univ.
-  <br>We are team 4. 4조 화이팅!
+  <br>We are team #4.
 </p>
 
-This page is about our team members information!
+Let me introduce our team members!
 
 <br />
 
