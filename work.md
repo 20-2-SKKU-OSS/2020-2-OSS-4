@@ -5,9 +5,9 @@ slug: /work
 items:
   - title: 'soynlp'
     image:
-      src: 
-      alt:
-    description : 
+      src: /assets/img/work/water.png
+      alt: water
+    description: 
     soynlp - 한국어 형태소 분석 기능을 제공하는 모듈입니다. 
 <br />
 
@@ -28,9 +28,9 @@ soynlp.normalizer 모듈은 분석하고자 하는 글의 전처리 - 특수기�
 
   - title: 'kroman'
     image:
-      src: 
-      alt:
-    description : kroman - 한글 문장을 로마자로 표기하는 기능을 제공합니다.
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: kroman - 한글 문장을 로마자로 표기하는 기능을 제공합니다.
 <br />
 우분투(20.04.1) 환경에서 프로젝트를 직접 다운로드하여 컴파일했을 때 에러가 발생했습니다. 에러를 해결하기 위해 코드를 일부 수정하였고, 해결하지 못한 에러는 bug report를 보냈습니다.
 <br />
@@ -40,8 +40,8 @@ soynlp.normalizer 모듈은 분석하고자 하는 글의 전처리 - 특수기�
 <br />
 --->2020-12-04-emwoon : <https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/12/04/emwoon>
 <br />
-
 ---
+
 ![NLP](./assets/img/NLP.jpeg)
 Introducing Project 'soynlp' and 'kroman'
 <br />
