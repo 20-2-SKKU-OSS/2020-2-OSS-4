@@ -10,7 +10,7 @@ items:
       alt: sand
 
 ---
-<https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.vlpt.us%2Fimages%2Fseunghoking%2Fpost%2F315f49f2-dc68-417a-8fe9-7b59790b417a%2FNLP.jpeg&imgrefurl=https%3A%2F%2Fvelog.io%2F%40seunghoking%2FNLP-%25ED%2595%259C%25EA%25B5%25AD%25EC%2596%25B4-%25ED%2598%2595%25ED%2583%259C%25EC%2586%258C-%25EB%25B6%2584%25EC%2584%259D%25EA%25B8%25B0-%25EC%2598%25A4%25ED%2594%2588%25EC%2586%258C%25EC%258A%25A4-%25EC%25A0%2595%25EB%25A6%25AC%25ED%2595%25B4%25EB%2593%259C%25EB%25A6%25B4%25EA%25B2%258C%25EC%259A%2594&tbnid=0dlVmOa6sDvTwM&vet=12ahUKEwi74LnVlrntAhVCXZQKHTlmAVMQMygNegUIARCyAQ..i&docid=xZGYng1iFJtF9M&w=1600&h=848&q=soynlp&ved=2ahUKEwi74LnVlrntAhVCXZQKHTlmAVMQMygNegUIARCyAQ>
+<https://media.vlpt.us/images/seunghoking/post/315f49f2-dc68-417a-8fe9-7b59790b417a/NLP.jpeg>
 Introducing Project 'soynlp' and 'kroman'
 <br />
 Our team has common interests on NLP(Natural Language Processing)
