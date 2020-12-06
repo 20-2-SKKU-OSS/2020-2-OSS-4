@@ -6,11 +6,8 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This page is for Opensource Software Lab team project, on Sungkyunkwan Univ. 
-<p>  
-  Our team consists of 박세환, 김상엽, 김주현, 서정환, 양동훈, 최준영.
-</p>
-
+  Welcome! This page is for Opensource Software Lab team project, on Sungkyunkwan Univ.
+  We are team 4. 4조 화이팅!
 </p>
 
 This page is about our team members information!
@@ -19,7 +16,7 @@ This page is about our team members information!
 
 <b>박세환</b> (Team Leader)
 
-<br />
+
 소프트웨어학과 17학번
 <br />
 language : c/c++ java python
@@ -38,7 +35,7 @@ email: whan9809@skku.edu
 
 <b>김주현</b> code navigator on Project kroman
 
-<br />
+
 소프트웨어학과 19학번
 <br />
 language : c/c++ python
@@ -53,7 +50,7 @@ email: juhy0987@naver.com
 
 <b>양동훈</b> code navigator on Project soynlp
 
-<br />
+
 스포츠과학과/소프트웨어학과 17학번
 <br />
 language : c, python
@@ -70,8 +67,6 @@ email : ydh4481@gmail.com
 
 
 <b>최준영</b> code navigator on Project kroman
-
-<br />
 
 
 소프트웨어학과 19학번
@@ -91,7 +86,7 @@ Email joeplay0801@naver.com
 
 <b>김상엽</b> code navigator on Project soynlp
 
-<br />
+
 소프트웨어학과 19학번
 <br />
 language : c/c++ python
@@ -107,8 +102,6 @@ Email tkdduq629@gmail.com
 <br />
 
 <b>서정환</b> Page manager
-
-<br />
 
 
 신소재공학부 / 컴퓨터공학과
