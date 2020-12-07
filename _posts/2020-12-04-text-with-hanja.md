@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "soynlp 한자 포함 Normalizer 추가"
+title:  "soynlp: 한자 포함 Normalizer 추가"
 date:   2020-12-04 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 
