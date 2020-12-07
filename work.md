@@ -14,7 +14,7 @@ items:
       alt: sand
     description: 한글 문장을 로마자로 표기하는 기능을 제공합니다. <br>우분투(20.04.1) 환경에서 프로젝트를 직접 다운로드하여 컴파일했을 때 에러가 발생했습니다. 에러를 해결하기 위해 코드를 일부 수정하였고, 해결하지 못한 에러는 bug report를 보냈습니다. ---> <a href="https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/12/06/error-fix">bug report & error fix</a> <br> 우리말에는 음운 변동 현상이 존재합니다. 예컨대, 음절의 끝소리 규칙이나 거센소리되기, 된소리되기가 있습니다. 기존 모듈이 지닌 로직으로는 위의 현상을 하나도 구현하지 못한다는 허점을 발견했습니다. 그래서 이를 반영하는 기능을 추가로 구현해 보았습니다. ---> <a href="https://20-2-skku-oss.github.io/2020-2-OSS-4/2020/12/04/emwoon">음운 변동 현상 적용</a>
 ---
-저희 팀이 기여한 'soynlp'와 'kroman' 프로젝트를 소개합니다. 
+저희 팀이 기여한 '<a href="https://github.com/20-2-SKKU-OSS/soynlp">soynlp</a>'와 '<a href="https://github.com/20-2-SKKU-OSS/kroman">kroman</a>' 프로젝트를 소개합니다. 
 저희 팀의 공통 관심사는 자연어 처리(NLP: Natural Language Processing)입니다. 특히, 한국어를 인식하고 처리하는 기술에 관심이 많습니다. 그래서 한국어 분석 모듈인 두 프로젝트에 기여하기로 결정했습니다.
 <br>원 프로젝트는 
 <a href="https://github.com/lovit/soynlp">lovit/soynlp</a>와 <a href="https://github.com/zhangkaiyulw/kroman">zhangkaiyulw/kroman</a>입니다.
