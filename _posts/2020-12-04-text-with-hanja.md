@@ -6,6 +6,12 @@ blurb: "A look at an example post using Bay Jekyll theme."
 
 ---
 <br />
+### Branch: <a href="https://github.com/20-2-SKKU-OSS/soynlp/tree/sehwani">sehwani</a>
+<br />
+<br />
+추가된 코드 설명은 <a href="https://github.com/20-2-SKKU-OSS/soynlp/wiki">wiki</a>를 참고해주세요.
+<br />
+<br />
 <img src="{{ "/assets/img/text with hanja.jpg" | absolute_url }}" alt="text with hanja" class="post-pic"/>
 <br />
 <br />
@@ -19,5 +25,8 @@ emoticon_normalizer는 반복되는 자음,모음을 줄이고 겹친 자음,모
 <br />
 예컨대, 한자가 포함된 뉴스 기사나 논문에서 전처리과정을 거치면 한자가 제거되는데, 한자가 제거되지 않는 전처리 함수를 만드는 것입니다.
 <br />
-<br>
-추가된 코드 설명은 <a href="https://github.com/20-2-SKKU-OSS/soynlp/wiki">wiki</a>를 참고해주세요.
+<br />
+Pull Request: <https://github.com/lovit/soynlp/pull/123>
+<br />
+<br />
+
