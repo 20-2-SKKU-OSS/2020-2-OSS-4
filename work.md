@@ -16,10 +16,7 @@ items:
 ---
 저희 팀이 기여한 'soynlp'와 'kroman' 프로젝트를 소개합니다. 
 저희 팀의 공통 관심사는 자연어 처리(NLP: Natural Language Processing)입니다. 특히, 한국어를 인식하고 처리하는 기술에 관심이 많습니다. 그래서 한국어 분석 모듈인 두 프로젝트에 기여하기로 결정했습니다.
-원 프로젝트는 
-<br>
-<a href="https://github.com/lovit/soynlp">lovit/soynlp</a>와
-<br>
-<a href="https://github.com/zhangkaiyulw/kroman">zhangkaiyulw/kroman</a>입니다.
+<br>원 프로젝트는 
+<a href="https://github.com/lovit/soynlp">lovit/soynlp</a>와 <a href="https://github.com/zhangkaiyulw/kroman">zhangkaiyulw/kroman</a>입니다.
 <br>
 
