@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "soynlp tutorials 오타 수정 및 실행 결과 최신화"
+title:  "soynlp: tutorials 오타 수정 및 실행 결과 최신화"
 date:   2020-11-29 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/typo check.jpg
