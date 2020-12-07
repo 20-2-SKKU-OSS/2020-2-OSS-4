@@ -5,8 +5,8 @@ date:   2020-12-04 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 
 ---
-<br />
-<br />
+<br>
+<br>
 ### soynlp
 <br><br>
 1. 오타 수정
@@ -20,9 +20,9 @@ blurb: "A look at an example post using Bay Jekyll theme."
 3. wiki 제작
 <br>
 양동훈
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
 ### kroman
 <br><br>
 1. bug report
@@ -37,12 +37,11 @@ blurb: "A look at an example post using Bay Jekyll theme."
 3. wiki 제작
 <br>
 김주현
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
 ### Static Page
-<br><br>
+<br>
 서정환 담당.
-<br />
-<br />
-<br />
+<br>
+<br>
